@@ -1,1 +1,0 @@
-projemiz bankacılık için kullanılabilir
